@@ -1,6 +1,6 @@
 # Comment validation analysis using NLP algorithms
 ## Abstract
-In this project I tried to get down to basics of natural language processing using [Digikala comments dataset]() .
+In this project I tried to get down to basics of natural language processing using [Digikala comments dataset](https://github.com/FarzamTP/Digikala-Comment-Verfication/blob/master/datasets/train_comments.zip) .
 Since machine learning started ruling over problems, Natural language processing problem became a great major in ml realm. We are surrounded by millions of text book, papers that contain billions of sentences in different languages.<br>
 But how can we use these data to solve our problems like: essay evaluation, grammar checking, etc. We are familiar with 
 image processing that we have each single pixel valued by 0 to 255, and can be used as feature during a image processing
