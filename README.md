@@ -13,7 +13,7 @@ Fortunately, Since 2017, a group in Google started working on a project called T
 [TensorFlow](https://www.tensorflow.org/) is a framework that helps us almost every section of solving our machine leaning or deep learning problem such as: prepossessing data, splitting data to train and test set, modeling, fitting, etc.<br>
 Fortunately, There are methods for NLP, which are used in the notebook.(all technical details are noted in [main.ipynb](https://github.com/FarzamTP/Digikala-Comment-Verfication/main.ipynb)).
 
-##Evaluation
+## Evaluation
 Over fitting is a major problem in NLP, So I tried to split my data in a way to reduce over fitting. Also in model I used DropOut layers and for Conv1D layers, I used l2 regularization with Lambda 0.001. But as suspected, model barely could fit on train set and reach 80% accuracy.
 I noticed that not only word frequency but also word position in important to predict more accurate.
 For example in the sentence:
